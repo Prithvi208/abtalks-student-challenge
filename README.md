@@ -4,7 +4,7 @@
 
 ABTalks is a student-focused challenge platform designed to turn learning and building into a consistent daily habit.
 
-Instead of simply tracking what students *plan* to do, ABTalks focuses on what they actually **build, ship, and prove** every day.
+Instead of simply tracking what students *plan* to do, ABTalks focuses on what they actually **Build, Ship, and Prove** every day.
 
 ## 🚀 Live Demo
 
